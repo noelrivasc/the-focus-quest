@@ -2,4 +2,18 @@
 layout: layouts/base.njk
 ---
 
+{% css %}
+.intro {
+    padding: 1em;
+    margin: 2em 0;
+    border-radius: 2px;
+    border: 2px solid grey;
+    box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.75);
+}
+{% endcss %}
+
+<div class="intro">
+I'm Noel. I write about software development, wild critters found in the digital realm, and surrounding phenomena.
+</div>
+
 {{ content | safe }}
