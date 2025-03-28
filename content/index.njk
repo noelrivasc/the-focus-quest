@@ -6,6 +6,22 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+
+<style>
+.intro {
+    padding: 1em;
+    margin: 1em 0 3em 0;
+    border-radius: 2px;
+    border: 2px solid grey;
+    box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.75);
+    display: flex;
+}
+</style>
+
+<div class="intro">
+I'm Noel. I write about software development, wild critters found in the digital realm, and surrounding phenomena.
+</div>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
