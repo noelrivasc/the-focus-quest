@@ -237,10 +237,16 @@ header {
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
-	text-decoration-thickness: 1px;
+	text-decoration-thickness: 4px;
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
+}
+.postlist-description {
+	font-size: 1em;
+	font-weight: 300;
+	padding-right: 0.5em;
+	flex-basis: 100%;
 }
 
 /* Tags */
