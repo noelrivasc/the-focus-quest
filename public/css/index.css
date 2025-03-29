@@ -1,7 +1,7 @@
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
-	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+	--font-family-monospace: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 }
 
 /* Theme colors */
@@ -153,6 +153,7 @@ table th {
 pre,
 code {
 	font-family: var(--font-family-monospace);
+	word-break: keep-all;
 }
 pre:not([class*="language-"]) {
 	margin: .5em 0;
@@ -170,8 +171,13 @@ pre:not([class*="language-"]) {
 	word-break: normal;
 	overflow-x: auto;
 }
-code {
-	word-break: break-all;
+
+:not(pre) > code {
+	background-color: #eee;
+	color: #666;
+	padding: 1px 4px; 
+	border-radius: 2px;
+	font-size: 0.875em;
 }
 
 /* Header */
