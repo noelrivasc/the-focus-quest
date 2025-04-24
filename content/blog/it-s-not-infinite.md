@@ -2,6 +2,8 @@
 title: It's not infinite
 date: 2024-08-27
 description: Even on days of shining focus, there's a time to stop.
+tags:
+  - Focus Quest
 ---
 
 I had a great day at work today. 

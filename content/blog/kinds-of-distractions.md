@@ -2,6 +2,8 @@
 title: Kinds of distractions
 date: 2024-08-05
 description: "The taxonomy is simple: there are desires, aversions and interruptions."
+tags:
+  - Focus Quest
 ---
 
 Distractions fall into three categories: desires, aversions and interruptions.

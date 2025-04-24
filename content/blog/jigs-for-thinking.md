@@ -2,6 +2,8 @@
 title: Jigs for thinking
 date: 2024-07-18
 description: DIY devices to help the brain.
+tags:
+  - Focus Quest
 ---
 
 Today, I had one of those software problems that involve multiple moving parts and was wondering about the best way to test all relevant cases.

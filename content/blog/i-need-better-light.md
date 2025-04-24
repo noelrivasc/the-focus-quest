@@ -2,6 +2,8 @@
 title: I need better light
 date: 2024-07-13
 description: A well lit office lifts my mood.
+tags:
+  - Focus Quest
 ---
 
 It may be dumb, but I just realized this: the lighting at my home office sucks.

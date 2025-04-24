@@ -2,6 +2,7 @@
 title: The delicate business of selling one's attention
 date: 2024-07-25
 description: It's a funny thing, getting paid to think.
+tags: Focus Quest
 ---
 
 If I worked in a factory, say, sewing pants, my body would be bound to certain movements but my thought could wander through landscapes of ideas. Or so I imagine it would happen.

@@ -1,8 +1,9 @@
 ---
 title: 'Tool: manual work'
 date: 2024-07-30
-categories: tools
 description: Manual work as a means to cool the mind off.
+tags:
+  - Focus Quest
 ---
 
 _Manual work as a means to cool the mind off and reclaim attention._

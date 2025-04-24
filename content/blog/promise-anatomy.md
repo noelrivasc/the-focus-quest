@@ -2,6 +2,8 @@
 title: "Anatomy of the Promise Organism - DRAFT"
 date: 2024-01-30
 draft: true
+tags:
+  - Technical Notes
 ---
 
 ## Anatomy of the Promise Organism

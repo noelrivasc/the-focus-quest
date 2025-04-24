@@ -2,6 +2,9 @@
 title: Clojure and ClojureScript are not identical
 date: 2025-04-04
 description: While most of the Clojure reference applies to cljs, not _all_ of it does
+tags:
+  - Technical Notes
+  - Clojure
 ---
 
 ## Take away

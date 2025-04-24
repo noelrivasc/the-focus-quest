@@ -2,6 +2,8 @@
 title: The energy sweet spot
 date: 2024-08-26
 description: Too much excitment results in bubbly thinking; too little results in lack of motivation. The ideal is somewhere in the middle. How can I get there?
+tags:
+  - Focus Quest
 ---
 
 Some days my energy level is low. My body would rather walk, watch birds, be chill.

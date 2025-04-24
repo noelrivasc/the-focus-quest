@@ -2,6 +2,7 @@
 title: Attention gym
 date: 2024-08-05
 description: Attention can be trained, like a muscle.
+tags: Focus Quest
 ---
 
 It seems that the antidote to distraction is training one's attention.

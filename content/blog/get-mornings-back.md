@@ -2,6 +2,8 @@
 title: Get mornings back
 date: 2024-07-14
 description: Mornings are pretty. It's a shame to lose most of them to screen time.
+tags:
+  - Focus Quest
 ---
 
 [A few days ago](/2024/07/10/a-good-morning-walk/) I started the day different than others: with a very long walk. My body forced the decision but since then I've been thinking about how much I miss mornings.

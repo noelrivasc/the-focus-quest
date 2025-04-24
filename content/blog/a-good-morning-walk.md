@@ -2,6 +2,7 @@
 title: A good morning walk
 date: 2024-07-10
 description: Walking makes everything better. Except a broken leg. Maybe.
+tags: Focus Quest
 ---
 
 There was something wrong with my body this morning. I had some pain and zero desire to sit in front of the screen, so it was time for a long walk.

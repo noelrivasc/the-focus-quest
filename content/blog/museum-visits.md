@@ -2,6 +2,8 @@
 title: Museum Visits
 date: 2024-07-07
 description: On finding inspiration and feeding curiosity.
+tags:
+  - Focus Quest
 ---
 
 I went to the museum today. Man, I really like that experience.

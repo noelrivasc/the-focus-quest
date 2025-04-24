@@ -2,6 +2,8 @@
 title: Swarming and pinning
 date: 2024-07-25
 description: Sometimes it's time to let ideas buzz around; sometimes it's time to catch them and organize them.
+tags:
+  - Focus Quest
 ---
 
 Sitting in front of a blank page (text document, diagram, whatever it is) is a great way to get stuck. For me, at least.

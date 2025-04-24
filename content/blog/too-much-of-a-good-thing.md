@@ -2,6 +2,8 @@
 title: Too much of a good thing
 date: 2024-07-28
 description: Having creative thoughts is nice. An unstoppable waterfall of thoughts, hoever, is not that nice.
+tags:
+  - Focus Quest
 ---
 
 Uncontrolled overthinking sucks.

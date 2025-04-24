@@ -2,6 +2,8 @@
 title: Letting curiosity sniff around
 date: 2025-03-21
 description: "Finding out if I love software development —or hate it."
+tags:
+  - Focus Quest
 ---
 
 The last post was six months ago. Since then, I decided to leave my job, left it in January, and gave myself a couple of months to rest and figure out what sort of relationship I have with writing software.

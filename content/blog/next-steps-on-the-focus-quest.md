@@ -2,6 +2,8 @@
 title: Next steps on the focus quest
 date: 2024-09-25
 description: Evaluating the purpose of this blog. Have I reached attention Nirvana? Do I still need to explore ways to improve my work?
+tags:
+  - Focus Quest
 ---
 
 I haven't been writing lately. Sometimes I think about that and feel the frustration of having another abandoned project, but then when I try to get to write, I can't find a topic to address.

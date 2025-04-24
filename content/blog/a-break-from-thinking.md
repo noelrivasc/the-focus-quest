@@ -2,6 +2,7 @@
 title: A break from thinking
 date: 2024-07-17
 description: I tried this clickbaity thing for 30 days. Here's what happened...
+tags: Focus Quest
 ---
 
 Sometimes there's too much going on in my head.

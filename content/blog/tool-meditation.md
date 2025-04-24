@@ -1,8 +1,9 @@
 ---
 title: 'Tool: meditation'
 date: 2024-08-12
-description: '<em>The</em> tool to quiet internal chatter.'
-categories: tools
+description: 'The tool to quiet internal chatter.'
+tags:
+  - Focus Quest
 ---
 
 This one is so obvious it almost feels dumb to include, but it's so important that I can't leave it out.

@@ -2,6 +2,9 @@
 title: Tailwind 4.x with ClojureScript
 date: 2025-03-29
 description: It's quite simple, actually
+tags:
+  - Technical Notes
+  - Clojure
 ---
 
 When I was figuring out how to integrate Tailwind with a re-frame project I'm working on, I found some instructions for Tailwind 3.x that didn't work with the newer version.
