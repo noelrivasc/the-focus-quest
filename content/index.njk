@@ -9,22 +9,65 @@ const numberOfLatestPostsToShow = 3;
 
 <style>
 .intro {
-    padding: 1em;
-    margin: 1em 0 3em 0;
-    border-radius: 2px;
-    border: 2px solid grey;
-    box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.75);
-    display: flex;
+	padding: 1em;
+	margin: 1em 0 3em 0;
+	border-radius: 2px;
+	border: 2px solid grey;
+	box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.75);
+	display: flex;
+}
+.main-topics {
+	display: flex;
+	gap: 1em;
+	align-items: stretch;
+}
+
+.main-topics a {
+	display: block;
+	border-radius: 2px;
+	border: 2px solid grey;
+	padding: 1em;
+	box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.5);
+	text-decoration: none;
+	transition: box-shadow 0.25s;
+}
+
+.main-topics a:hover {
+	box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.5);
+	transition: box-shadow 0.25s;
+}
+
+.main-topics a .card-title {
+	display: block;
+	font-size: 1.25em;
+	font-weight: 600;
+}
+
+.main-topics a .card-description {
+	font-size: .875em;
+}
+
+.main-topics a:nth-child(1) {
+	opacity: 0.25;
+}
+h2.latest-title {
+	margin-top: 3em;
 }
 </style>
 
 <div class="intro">
-I'm Noel. I write about software development, wild critters found in the digital realm, and surrounding phenomena.
+	I'm Noel. I write about software development, wild critters found in the digital realm, and surrounding phenomena.
+</div>
+
+<div class="main-topics">
+	<a href="#"><span class="card-title">Code Toys</span><span class="card-description">Quirky, fun, artsy, often half-baked stuff</span></a>
+	<a href="/tags/focus-quest"><span class="card-title">Focus Quest</span><span class="card-description">About managing attention and energy</span></a>
+	<a href="/tags/technical-notes"><span class="card-title">Technical Notes</span><span class="card-description">On programming and surrounding phenomena</span></a>
 </div>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2 class="latest-title">Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
