@@ -1,7 +1,7 @@
 ---
 title: Deploying a re-frame App
 date: 2025-04-23
-description: Deploying a re-frame app with AWS S3, CloudFront and GitHub Actions
+description: With a combination of AWS S3, CloudFront and GitHub Actions
 tags:
   - Clojure
   - Technical Notes
